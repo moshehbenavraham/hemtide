@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Voyager fashion magazine social preview</title>
+  <desc id="desc">Editorial social card for Voyager fashion photography magazine.</desc>
+  <rect width="1200" height="630" fill="#f4eee7"/>
+  <rect x="56" y="56" width="1088" height="518" fill="#151515"/>
+  <path d="M116 500h968" stroke="#f4eee7" stroke-width="4"/>
+  <rect x="152" y="138" width="172" height="326" rx="86" fill="#d64265"/>
+  <rect x="366" y="112" width="176" height="352" rx="88" fill="#d5b46a"/>
+  <rect x="584" y="178" width="176" height="286" rx="88" fill="#f4eee7"/>
+  <rect x="802" y="118" width="176" height="346" rx="88" fill="#7a9c8b"/>
+  <path d="M238 137v327M454 111v353M672 177v287M890 117v347" stroke="#151515" stroke-width="10"/>
+  <text x="116" y="116" fill="#f4eee7" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="4">VOYAGER</text>
+  <text x="116" y="552" fill="#f4eee7" font-family="Georgia, serif" font-size="38">Fashion photography, beauty, streetwear, and style culture</text>
+</svg>
